@@ -1,0 +1,23 @@
+/*|Github Exercise|------------------------------------------------------------
+#
+# Project: Github Execise
+# Program: GithubExercise.txt
+#
+# Description:
+#   This file is used to ensure everyone is able to edit code properly using 
+# Github. To do so, please clone this repository, commit your changes, and push
+# the new version back onto this repository. Edit the sample text with small
+# changes. Increment the version stating your name as the author along with the
+# date.
+#
+# v1.0 - 14/02/2022 - Isaiah Regacho 
+#   - Wrote the story.
+#
+# Author: Isaiah Regacho
+# Last Modified: February 14, 2022
+# -----------------------------------------------------------------------------*/
+
+  Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
+  he yelled into the void. A short time later a mystical creature hollered back, 
+  "Where is your state diagram?!" Puzzled by the words of wisdom, Andrew reached
+  for a branch and began to draw.

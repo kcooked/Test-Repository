@@ -18,6 +18,6 @@
 # -----------------------------------------------------------------------------*/
 
   Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
-  he yelled into the void. A short time later a mystical creature hollered back, 
-  "Where is your state diagram?!" Puzzled by the words of wisdom, Andrew reached
-  for a branch and began to draw.
+  he yelled into the void. A short time later a mystical creature, that may or may not 
+  have just been an oversized opossum, hollered back,  "Where is your state diagram?!" 
+  Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.

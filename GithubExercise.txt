@@ -16,6 +16,8 @@
 #   - Added marsupial.
 # v1.2 - 15/02/2022 - Isaiah Regacho
 #   - Andrew forgot to update this section. Mythical.
+# v1.3 - 15/02/2022 - Isaiah Regacho
+#   - Isaiah clicked push before he grabbed a screenshot.
 #
 # Author: Isaiah Regacho
 # Last Modified: February 15, 2022

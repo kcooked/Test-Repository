@@ -12,12 +12,16 @@
 #
 # v1.0 - 14/02/2022 - Isaiah Regacho 
 #   - Wrote the story.
+# v1.1 - 14/02/2022 - Andrew Friesen
+#   - Added marsupial.
+# v1.2 - 15/02/2022 - Isaiah Regacho
+#   - Andrew forgot to update this section. Mythical.
 #
 # Author: Isaiah Regacho
-# Last Modified: February 14, 2022
+# Last Modified: February 15, 2022
 # -----------------------------------------------------------------------------*/
 
   Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
-  he yelled into the void. A short time later a mystical creature, that may or may not 
+  he yelled into the void. A short time later a mythical creature, that may or may not 
   have just been an oversized opossum, hollered back,  "Where is your state diagram?!" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.

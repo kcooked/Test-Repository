@@ -22,13 +22,18 @@
 #   - Added second paragraph
 # v1.3.1 - 16/02/2022 - Zarina Guzman
 #   - replaced some words
+<<<<<<< HEAD
+=======
+# v1.3.2 - 16/02/2022 - Alessandro V
+#   - forrest -> forest
+>>>>>>> 547d80ea4e1180dfd5a2c68cfaed0ed0f8894862
 # v1.3.2 - 16/02/2022 - Mason Kury
 #   - improved detail of creature speech
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
 
-  Andrew has been sprinting in the forrest for twenty days. "Andrew! You got us lost!", 
+  Andrew has been sprinting in the forest for twenty days. "Andrew! You got us lost!", 
   he yelled into the void. A short time later a mythical creature, that may or may not 
   have just been an oversized opossum, hollered back,  "OOGA BOOGA, MSP430F5529LP" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.
@@ -37,7 +42,36 @@
   to be able to properly illustrate what would surely be a masterpiece of a state diagram.
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
   
+<<<<<<< HEAD
+<<<<<<< HEAD
+  He walked onto a chaldboard.
+=======
   This is a test: the test is life...
+>>>>>>> 52f9ccfaaaccaa09be7544df16ae5e9b08921524
+=======
+  This is a test: the test is life...
+>>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
   This is a test
+<<<<<<< Updated upstream
   to pull to my local PC?
+<<<<<<< HEAD
+  DID I CHANGE IT YET? 
+=======
+  //Test - Danny
+
+>>>>>>> Stashed changes
+=======
   HELLO
+  testing 123
+  Typing...
+<<<<<<< HEAD
+=======
+  How to push?
+>>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
+>>>>>>> 137258750619c8dd17826ba5e6d0c69d00420896
+
+
+<img src="https://github.com/1010Robotics/2018-2019-1010R/blob/Pic/IMG_2662.jpg" alt="Robot in September" width="672" height="504">  
+
+How to push:
+https://youtu.be/xvFZjo5PgG0

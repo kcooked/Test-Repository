@@ -22,11 +22,13 @@
 #   - Added second paragraph
 # v1.3.1 - 16/02/2022 - Zarina Guzman
 #   - replaced some words
+# v1.3.2 - 16/02/2022 - Alessandro V
+#   - forrest -> forest
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
 
-  Andrew has been sprinting in the forrest for twenty days. "Andrew! You got us lost!", 
+  Andrew has been sprinting in the forest for twenty days. "Andrew! You got us lost!", 
   he yelled into the void. A short time later a mythical creature, that may or may not 
   have just been an oversized opossum, hollered back,  "OOGA BOOGA, MSP430" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.

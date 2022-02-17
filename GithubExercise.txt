@@ -41,5 +41,4 @@
   HELLO
   testing 123
   Typing...
-
-  CONFUSING
+  How to push?

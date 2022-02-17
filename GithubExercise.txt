@@ -36,12 +36,20 @@
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
   
 <<<<<<< HEAD
+<<<<<<< HEAD
   He walked onto a chaldboard.
 =======
   This is a test: the test is life...
 >>>>>>> 52f9ccfaaaccaa09be7544df16ae5e9b08921524
+=======
+  This is a test: the test is life...
+>>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
   This is a test
   to pull to my local PC?
   HELLO
   testing 123
   Typing...
+<<<<<<< HEAD
+=======
+  How to push?
+>>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347

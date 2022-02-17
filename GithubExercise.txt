@@ -47,7 +47,15 @@
   This is a test: the test is life...
 >>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
   This is a test
+<<<<<<< Updated upstream
   to pull to my local PC?
+<<<<<<< HEAD
+  DID I CHANGE IT YET? 
+=======
+  //Test - Danny
+
+>>>>>>> Stashed changes
+=======
   HELLO
   testing 123
   Typing...
@@ -55,3 +63,4 @@
 =======
   How to push?
 >>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
+>>>>>>> 137258750619c8dd17826ba5e6d0c69d00420896

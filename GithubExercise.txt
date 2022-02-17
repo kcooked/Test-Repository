@@ -20,12 +20,14 @@
 #   - Isaiah clicked push before he grabbed a screenshot.
 # v1.3 - 16/02/2022 - Andrew Friesen
 #   - Added second paragraph
+# v1.3 - 16/02/2022 - Alessandro
+#   - Corrected "forrest" to "forest"
 #
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
 
-  Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
+  Andrew has been walking in the forest for seven days. "Andrew! You got us lost!", 
   he yelled into the void. A short time later a mythical creature, that may or may not 
   have just been an oversized opossum, hollered back,  "Where is your state diagram?!" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.

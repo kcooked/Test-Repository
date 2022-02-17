@@ -22,8 +22,6 @@
 #   - Added second paragraph
 # v1.3.1 - 16/02/2022 - Zarina Guzman
 #   - replaced some words
-# v1.3.2 16/02/2022 - Thomas Endicott
-#   - screamed
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
@@ -42,7 +40,4 @@
   to pull to my local PC?
   HELLO
   testing 123
-
-
-
-aaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhh
+  Typing...

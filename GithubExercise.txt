@@ -27,7 +27,7 @@
 # v1.3.2 - 16/02/2022 - Alessandro V
 #   - forrest -> forest
 >>>>>>> 547d80ea4e1180dfd5a2c68cfaed0ed0f8894862
-# v1.3.2 - 16/02/2022 - Mason Kury
+# v1.3.3 - 16/02/2022 - Mason Kury
 #   - improved detail of creature speech
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022

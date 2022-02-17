@@ -20,19 +20,28 @@
 #   - Isaiah clicked push before he grabbed a screenshot.
 # v1.3 - 16/02/2022 - Andrew Friesen
 #   - Added second paragraph
-#
+# v1.3.1 - 16/02/2022 - Zarina Guzman
+#   - replaced some words
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
 
-  Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
+  Andrew has been sprinting in the forrest for twenty days. "Andrew! You got us lost!", 
   he yelled into the void. A short time later a mythical creature, that may or may not 
-  have just been an oversized opossum, hollered back,  "Where is your state diagram?!" 
+  have just been an oversized opossum, hollered back,  "OOGA BOOGA, MSP430" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.
 
   Casting his eyes downward Andrew assessed the ground and found it too hard and rocky
   to be able to properly illustrate what would surely be a masterpiece of a state diagram.
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
   
+<<<<<<< HEAD
+  He walked onto a chaldboard.
+=======
+  This is a test: the test is life...
+>>>>>>> 52f9ccfaaaccaa09be7544df16ae5e9b08921524
   This is a test
   to pull to my local PC?
+  HELLO
+  testing 123
+  Typing...

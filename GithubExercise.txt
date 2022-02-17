@@ -1,6 +1,6 @@
 /*|Github Exercise|------------------------------------------------------------
 #
-# Project: Github Execise for fun
+# Project: Github Execise for funzies
 # Program: GithubExercise.txt
 #
 # Description:

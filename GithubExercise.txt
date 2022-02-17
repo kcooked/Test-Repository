@@ -34,6 +34,7 @@
   to be able to properly illustrate what would surely be a masterpiece of a state diagram.
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
   
+  This is a test: the test is life.
   This is a test
   to pull to my local PC?
   HELLO

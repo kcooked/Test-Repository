@@ -35,7 +35,10 @@
   to be able to properly illustrate what would surely be a masterpiece of a state diagram.
   Upon this realization Andrew set off in search of ground more favourable for drawing on.
 
-  Andrew walked until he came to a river. On the bank of the river was a flat soft muddy expanse perfect for drawing state diagrams. The only thing marring the surface were curious footprints.
+  Andrew walked until he came to a river. On the bank of the river was a flat soft muddy
+  expanse perfect for drawing state diagrams. The only thing marring the surface were
+  curious footprints. Ignoring the footprints (animal?, human?) Andrew started to draw
+  a pristine state diagram representing .....
 
 testestest
 

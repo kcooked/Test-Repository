@@ -64,6 +64,3 @@
   How to push?
 >>>>>>> 0a71269a6f9be2e3b8886cb3b574eccad2d0b347
 >>>>>>> 137258750619c8dd17826ba5e6d0c69d00420896
-
-
-<img src="https://github.com/1010Robotics/2018-2019-1010R/blob/Pic/IMG_2662.jpg" alt="Robot in September" width="672" height="504">  

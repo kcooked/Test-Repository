@@ -75,7 +75,6 @@ Chapter 2: Andrew
   Andrew has been sprinting in the forest for twenty days. "Andrew! You got us lost!", 
 =======
   Andrew has been walking in the forrest for seven days. "Andrew! You got us lost!", 
->>>>>>> 3452151c4bd10f57ca74f51e45fd4449938bf4da
   he yelled into the void. A short time later a mythical creature, that may or may not 
   have just been an oversized opossum, hollered back,  "Where is your state diagram?!" 
   Puzzled by the words of wisdom, Andrew reached for a branch and began to draw.

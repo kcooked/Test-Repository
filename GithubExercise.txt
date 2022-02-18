@@ -29,11 +29,42 @@
 >>>>>>> 547d80ea4e1180dfd5a2c68cfaed0ed0f8894862
 # v1.3.3 - 16/02/2022 - Mason Kury
 #   - improved detail of creature speech
+# v1.4 - 16/02/2022 - Mason Kury
+#   - introduced chapters and added one about Greg
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
 # -----------------------------------------------------------------------------*/
 
 Bless us all TI
+
+Chapter 1: Greg
+
+  It was a dark and stormy night -- or maybe it was just a normal night with average lighting;
+  the Cognex Vision camera wouldn't be able to tell the difference.
+  Greg was just finishing up his conversation with the assortment of ABB 6-DOF industrial
+  robotic arms before heading home for the night. The arms waved to him as he wheeled
+  his fixed-gear bike out the doors of the robotics lab. He walked down the main hallway
+  of SW9 past the lecture hall and straight into the doors to exit the building. Whoever
+  installed those doors must have used feet for proximity detection instead of meters, or
+  they simply intended for people to take a nap while waiting for them to open. Greg
+  hardly felt the impact, though, and continued out into the evening light.
+
+  As he mounted his bike and prepared for his journey home, he felt the urge to stop. I'm not
+  sure if he pulled the brakes or simply stopped moving his feet; the fixed-gear mechanism
+  would have allowed him to do either. Greg shifted his focus toward SW3 and became
+  mesmerized by the soft glow emanating from the area where students lock up their bikes.
+
+  Greg approached the entrance to the main building of SW3, closest to the parking lot and
+  locked up his bike. The stream of colours radiating through the window from the stairwell
+  was intense: he couldn't help but to further investigate. Walking down the single
+  flight of stairs to the basement level, the glow became a vibrant red. He peered through
+  the locked double doors that ironically instructed security to not lock them. He was just
+  able to differentiate the room label from the bath of red that surrounded him, when he
+  heard the large vent to his back right rattle. He began to collapse instantaneously.
+  His vision quickly blurred as the word "Planetarium" melted into darkness.
+
+
+Chapter 2: Andrew
 
   Andrew has been sprinting in the forest for twenty days. "Andrew! You got us lost!", 
   he yelled into the void. A short time later a mythical creature, that may or may not 

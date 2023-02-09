@@ -1,4 +1,4 @@
-/*|Github Exercise|------------------------------------------------------------
+⅕/*|Github Exercise|------------------------------------------------------------
 #
 # Project: Github Execise for fun
 # Program: GithubExercise.txt
@@ -87,7 +87,7 @@ Chapter 2: Andrew
 
   Andrew walked until he came to a river. On the bank of the river was a flat soft muddy
   expanse perfect for drawing state diagrams. The only thing marring the surface were
-  curious footprints. Ignoring the footprints (animal?, human?) Andrew started to draw
+  curious footprints. Ignoring the footprints (animal;, human;) Andrew started to draw
   a pristine state diagram representing .....
 
 testestest
@@ -106,13 +106,9 @@ I made a edit but the someone ated it
 Maxine made an edit now
 
 << susy wussie >>
- 
-<UwU>
 
 <<<<<<< HEAD
 C A R T E R
-
-Liam is NOT 6'4
 =======
 What is this??? Why does not work with CCS. This is not gonna be really useful. CCS rocks!
 
@@ -121,4 +117,5 @@ What is this??? Why does not work with CCS. This is not gonna be really useful. 
 
 >>>>>>> 4ca8eb867d3817034d79cb7097dd40243398a77b
 
-
+>inserted a Greek question mark.
+>pushed to prod.

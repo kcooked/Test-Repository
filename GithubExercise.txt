@@ -90,9 +90,7 @@ Chapter 2: Andrew
   curious footprints. Ignoring the footprints (animal?, human?) Andrew started to draw
   a pristine state diagram representing .....
 
-Yoon made an edit ...again.
-testestest 
-
+testestest
 
 
 <<<<<<< HEAD
@@ -106,6 +104,8 @@ I made a edit but the someone ated it
 %%%%
 
 Maxine made an edit now
+
+<< susy wussie >>
 
 <<<<<<< HEAD
 C A R T E R

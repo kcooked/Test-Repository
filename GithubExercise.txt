@@ -38,6 +38,8 @@
 #   - introduced chapters and added one about Greg
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
+#
+#v2.0 - 09/02/2023	-MEH
 # -----------------------------------------------------------------------------*/
 
 <<<<<<< HEAD
@@ -103,4 +105,8 @@ I made a edit but the someone ated it
 
 Maxine made an edit now
 
+<<<<<<< HEAD
 C A R T E R
+=======
+What is this??? Why does not work with CCS. This is not gonna be really useful. CCS rocks!
+>>>>>>> 4ca8eb867d3817034d79cb7097dd40243398a77b

@@ -101,5 +101,9 @@ I made a edit but the someone ated it
 >>>>>>> 3452151c4bd10f57ca74f51e45fd4449938bf4da <<<<<<
 %%%%
 
+<<<<<<< HEAD
 Yoon made an edit.
+=======
+Maxine made an edit now too 
+>>>>>>> 411531556dadbd1782d3ced431f5705a8363d2db
 

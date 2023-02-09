@@ -111,4 +111,10 @@ Maxine made an edit now
 C A R T E R
 =======
 What is this??? Why does not work with CCS. This is not gonna be really useful. CCS rocks!
+
+ ^
+ | Paid TI rep. -Jorden
+
 >>>>>>> 4ca8eb867d3817034d79cb7097dd40243398a77b
+
+

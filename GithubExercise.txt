@@ -38,6 +38,8 @@
 #   - introduced chapters and added one about Greg
 # Author: Isaiah Regacho
 # Last Modified: February 16, 2022
+#
+#v2.0 - 09/02/2023	-MEH
 # -----------------------------------------------------------------------------*/
 
 <<<<<<< HEAD

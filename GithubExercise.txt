@@ -118,9 +118,7 @@ What is this??? Why does not work with CCS. This is not gonna be really useful. 
 
  ^
  | Paid TI rep. -Jorden
- 
- I'm hungry
 
 >>>>>>> 4ca8eb867d3817034d79cb7097dd40243398a77b
 
-
+twitch.tv/paulstoes

@@ -34,6 +34,8 @@
 #v2.0 - 09/02/2023	-MEH
 #v2.1 - 08/02/2024 - Andrew Friesen
 #	-Cleanup
+# v2.2 08/02/2024 -Andrew Friesen
+# -Added text
 # -----------------------------------------------------------------------------*/
 
 Bless us all TI
@@ -90,6 +92,7 @@ I made a edit but the someone ated it
 
 Maxine made an edit now
 
+Andrew is adding some stuff to show the changes.
 
 What is this??? Why does not work with CCS. This is not gonna be really useful. CCS rocks!
 
